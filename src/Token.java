@@ -7,7 +7,7 @@ public class Token {
      */
 
     // Token dde Github
-    public String token_github = "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"
+    public String token_github = "**"
 
     public void auth(String token) {
         // autentica
